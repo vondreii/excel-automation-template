@@ -24,3 +24,6 @@ I also created a template which can be used to create new Python scripts to read
 ### Clean Data
 This Script deletes certain columns in the raw excel file that are not needed for the analysis.
 
+### To Run
+Simply click on the Python file (any of them), and the script should automatically open a terminal. 
+Enter the name of the folder that stores the excel files (in this case, it's 'Test'). The script will inform you when it has finished running.
