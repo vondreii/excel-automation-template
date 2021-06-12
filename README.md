@@ -6,7 +6,7 @@ This is a collection of Python automation scripts to help me with the data analy
 
 Each participant was required to play two versions of a game. For each version, they needed to play the game three times. In total, one participant had 6 excel files. In total there were 40 participants. 40*6 = 240 excel files. 
 
-![img](/Images/pythonCMD.PNG)
+![img](/Images/cmd.PNG)
 
 ### Data Analysis Script 
 This script does simple analysis and maths calculations on the data. In order to speed up the process, the data analysis script was based off Sora Khan's Data Analysis Script: [https://github.com/sorakhan/data-analysis-script](https://github.com/sorakhan/data-analysis-script)
